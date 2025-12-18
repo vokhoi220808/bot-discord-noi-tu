@@ -404,3 +404,15 @@ client.login('YOUR_BOT_TOKEN'); // Thay thế YOUR_BOT_TOKEN thành token bot c�
 | Window       | ✔️  |       |
 | MacOS       | ✔️  |       |
 | Linux       | ✔️  |       |
+
+
+
+## Star History
+
+<a href="https://www.star-history.com/#vokhoi220808/bot-discord-noi-tu&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=vokhoi220808/bot-discord-noi-tu&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=vokhoi220808/bot-discord-noi-tu&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=vokhoi220808/bot-discord-noi-tu&type=date&legend=top-left" />
+ </picture>
+</a>
